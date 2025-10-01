@@ -61,8 +61,8 @@ importers:
         specifier: ^4.2.0
         version: 4.2.0(@typescript-eslint/eslint-plugin@7.18.0(@typescript-eslint/parser@7.18.0(eslint@8.57.1)(typescript@5.9.2))(eslint@8.57.1)(typescript@5.9.2))(eslint@8.57.1)
       pnpm:
-        specifier: ^10.16.0
-        version: 10.16.0
+        specifier: ^10.17.1
+        version: 10.17.1
       rimraf:
         specifier: ^6.0.1
         version: 6.0.1
@@ -1264,8 +1264,8 @@ packages:
     resolution: {integrity: sha512-Nc3IT5yHzflTfbjgqWcCPpo7DaKy4FnpB0l/zCAW0Tc7jxAiuqSxHasntB3D7887LSrA93kDJ9IXovxJYxyLCA==}
     engines: {node: '>=4'}
 
-  pnpm@10.16.0:
-    resolution: {integrity: sha512-gGbnsDQhe3AKmk27OgBQYdZBuhMKiZFSE6ELPKSRnBnAN77IBmr9xVm4ljX9uAaxbqZz8kaPuyiqv6E8U+P3aQ==}
+  pnpm@10.17.1:
+    resolution: {integrity: sha512-F8Vg/KSGeulHOjiZrYSogzSRTzeb5G1FXL+S5c9LOdNJhdRS0lg7rxmWf6dstcF7yeJFUp0LmHRXIapyAOyveg==}
     engines: {node: '>=18.12'}
     hasBin: true
 
@@ -2989,7 +2989,7 @@ snapshots:
 
   pluralize@8.0.0: {}
 
-  pnpm@10.16.0: {}
+  pnpm@10.17.1: {}
 
   possible-typed-array-names@1.1.0: {}
 
