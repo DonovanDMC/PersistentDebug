@@ -33,7 +33,7 @@
   "license": "MIT",
   "dependencies": {
     "debug": "^4.4.1",
-    "lru-cache": "^11.2.1"
+    "lru-cache": "^11.2.2"
   },
   "devDependencies": {
     "@swc/core": "^1.13.5",
